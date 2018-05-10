@@ -1,0 +1,368 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #053C63;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-weight: 100;
+    font-size: 60px;
+}
+.baner1{
+    width: 300px;
+    height: 250px;
+    background-color: #053C63;
+    margin-left: 5%;
+    position: relative;
+    padding-top: 20px;
+}
+.baner1 .text{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0px;
+    font-weight: bold;
+}
+.baner1 .logo{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.baner2{
+    width: 300px;
+    height: 250px;
+    background-color: #A5DAE3;
+    margin-left: 5%;
+    margin-top: 6%;
+    position: relative;
+    padding-top: 25px;
+}
+.baner2 .text{
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0%;
+}
+.baner2 .logo{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 50px;
+}
+.baner2 .windows{
+    position: absolute;
+    left: 10%;
+    bottom: 16%;
+    width: 100px;
+}
+.baner2 .pc{
+    position: absolute;
+    right: 5px;
+    bottom: 10px;
+    width: 150px;
+}
+.baner3{
+    width: 300px;
+    height: 250px;
+    background-color: #A5DAE3;
+    margin-left: 5%;
+    margin-top: 6%;
+    position: relative;
+    padding-top: 1px;
+}
+.baner3 .text{
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0%;
+}
+.baner3 .logo{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 50px;
+}
+.baner3 .intel{
+    position: absolute;
+    width: 100px;
+    left: 10px;
+}
+.baner3 .windows{
+    position: absolute;
+    right: 20%;
+    width: 100px;
+    bottom: 20px;
+}
+.baner4{
+    width: 300px;
+    height: 250px;
+    background-color: #FECE2F;
+    margin-top: 6%;
+    margin-left: 5%;
+    position: relative;
+    padding-top: 20px;
+}
+.baner4 .text{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0px;
+    font-weight: bold;
+}
+.baner4 .logo{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.baner5{
+    width: 300px;
+    height: 250px;
+    background-color: #A5DAE3;
+    margin-top: 6%;
+    margin-left: 5%;
+    position: relative;
+    padding-top: 10px;
+}
+.baner5 .logo{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.baner5 .text{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0%;
+}
+.baner5 .intel{
+    position: absolute;
+    width: 100px;
+    bottom: 30px;
+    left: 10px;
+}
+.baner5 .pc{
+    position: absolute;
+    left: 140px;
+    top: 130px;
+    width: 210px;
+}
+.baner6{
+    width: 300px;
+    height: 250px;
+    background-color: #053C63;
+    margin-top: 6%;
+    margin-left: 5%;
+    position: relative;
+    padding-top: 10px;
+}
+.baner6 .logo{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.baner6 .text{
+    color: white;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0px;
+    font-weight: bold;
+}
+.baner6 .text1{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0px;
+    font-weight: bold;
+}
+.baner6 .text2{
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 10%;
+    line-height: 0px;
+    font-weight: bold;
+    border: 1px white solid;
+    width: 80px;
+    padding-left: 10px;
+}
+.baner6 .pc{
+    position: absolute;
+    left: 150px;
+    top: 120px;
+    width: 200px;   
+}
+.baner6 .intel{
+    position: absolute;
+    width: 50px;
+    bottom: 1%;
+    left: 9%;
+}
+.baner6 .windows{
+    position: absolute;
+    width: 60px;
+    left: 27%;
+    bottom: 10px;
+}
+.baner7{
+    width: 300px;
+    height: 50px;
+    background-color: #053C63;
+    margin-left: 5%;
+    margin-top: 6%;
+    position: relative;
+    padding-top: 20px;
+}
+.baner7 .logo{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    width: 50px;
+}
+.baner7 .text{
+    color: white;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.baner8{
+    width: 300px;
+    height: 50px;
+    background-color: #053C63;
+    margin-left: 5%;
+    margin-top: 6%;
+    position: relative;
+    padding-top: 20px;
+}
+.baner8 .logo{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    width: 50px;
+}
+.baner8 .text{
+    color: white;
+    position: absolute;
+    right: 33px;
+    top: -13px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.baner8 .text1{
+    color: white;
+    position: absolute;
+    left: 72px;
+    top: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.baner8 .intel{
+    position: absolute;
+    left: 55%;
+    top: 37px;
+    width: 50px;
+}
+.baner8 .windows{
+    position: absolute;
+    right: 10%;
+    top: 43px;
+    width: 50px;
+}
+.baner9{
+    width: 300px;
+    height: 50px;
+    background-color: #FECE2F;
+    margin-left: 5%;
+    margin-top: 6%;
+    position: relative;
+    padding-top: 20px;  
+}
+.baner9 .logo{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    width: 50px;
+}
+.baner9 .text{
+    color: white;
+    position: absolute;
+    left: 73px;
+    top: -10px;
+    font-size: 19px;
+    font-weight: 700;
+}
+.baner9 .text1{
+    color: white;
+    position: absolute;
+    left: 73px;
+    top: 10px;
+    font-size: 19px;
+    font-weight: 700;
+}
+.baner9 .pc{
+    position: absolute;
+    right: -20px;
+    top: 10px;
+    width: 90px;
+}
+.baner10{
+    width: 300px;
+    height: 50px;
+    background-color: #053C63;
+    margin-left: 5%;
+    margin-top: 6%;
+    position: relative;
+    padding-top: 20px;  
+}
+.baner10 .logo{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    width: 50px;
+}
+.baner10 .text{
+    color: white;
+    position: absolute;
+    left: 73px;
+    top: -5px;
+    font-size: 19px;
+    font-weight: 700;
+}
+.baner10 .text1{
+    color: white;
+    position: absolute;
+    left: 73px;
+    top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.baner10 .pc{
+    position: absolute;
+    right: -20px;
+    top: 10px;
+    width: 90px;
+}
+footer{
+    background-color: black;
+    width: 330px;
+    height: 150px;
+    margin-left: 75%;
+}
+footer .text{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 20%;
+}
