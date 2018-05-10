@@ -15,6 +15,7 @@ h1{
     margin-left: 5%;
     position: relative;
     padding-top: 20px;
+    box-sizing: border-box;
 }
 .baner1 .text{
     color: white;
@@ -38,6 +39,7 @@ h1{
     margin-top: 6%;
     position: relative;
     padding-top: 25px;
+    box-sizing: border-box;
 }
 .baner2 .text{
     color: white;
@@ -55,14 +57,14 @@ h1{
 .baner2 .windows{
     position: absolute;
     left: 10%;
-    bottom: 16%;
-    width: 100px;
+    bottom: 10%;
+    width: 90px;
 }
-.baner2 .pc{
+.baner2 img.pc{
     position: absolute;
-    right: 5px;
+    left: 200px;
     bottom: 10px;
-    width: 150px;
+    width: 130px;
 }
 .baner3{
     width: 300px;
@@ -72,6 +74,7 @@ h1{
     margin-top: 6%;
     position: relative;
     padding-top: 1px;
+    box-sizing: border-box;
 }
 .baner3 .text{
     color: white;
@@ -104,7 +107,8 @@ h1{
     margin-top: 6%;
     margin-left: 5%;
     position: relative;
-    padding-top: 20px;
+    padding-top: 2px;
+    box-sizing: border-box;
 }
 .baner4 .text{
     color: white;
@@ -128,6 +132,7 @@ h1{
     margin-left: 5%;
     position: relative;
     padding-top: 10px;
+    box-sizing: border-box;
 }
 .baner5 .logo{
     width: 50px;
@@ -150,9 +155,9 @@ h1{
 }
 .baner5 .pc{
     position: absolute;
-    left: 140px;
-    top: 130px;
-    width: 210px;
+    left: 171px;
+    top: 133px;
+    width: 170px;
 }
 .baner6{
     width: 300px;
@@ -162,6 +167,7 @@ h1{
     margin-left: 5%;
     position: relative;
     padding-top: 10px;
+    box-sizing: border-box;
 }
 .baner6 .logo{
     width: 50px;
@@ -222,18 +228,19 @@ h1{
     margin-top: 6%;
     position: relative;
     padding-top: 20px;
+    box-sizing: border-box;
 }
 .baner7 .logo{
     position: absolute;
     left: 10px;
-    top: 20px;
+    top: 8px;
     width: 50px;
 }
 .baner7 .text{
     color: white;
     position: absolute;
     right: 10px;
-    top: 0px;
+    top: -9px;
     font-size: 22px;
     font-weight: 700;
 }
@@ -245,18 +252,19 @@ h1{
     margin-top: 6%;
     position: relative;
     padding-top: 20px;
+    box-sizing: border-box;
 }
 .baner8 .logo{
     position: absolute;
     left: 10px;
-    top: 20px;
+    top: 8px;
     width: 50px;
 }
 .baner8 .text{
     color: white;
     position: absolute;
     right: 33px;
-    top: -13px;
+    top: -18px;
     font-size: 22px;
     font-weight: 700;
 }
@@ -264,20 +272,20 @@ h1{
     color: white;
     position: absolute;
     left: 72px;
-    top: 10px;
+    top: 3px;
     font-size: 22px;
     font-weight: 700;
 }
 .baner8 .intel{
     position: absolute;
     left: 55%;
-    top: 37px;
+    top: 21px;
     width: 50px;
 }
 .baner8 .windows{
     position: absolute;
-    right: 10%;
-    top: 43px;
+    right: 12%;
+    top: 29px;
     width: 50px;
 }
 .baner9{
@@ -287,19 +295,20 @@ h1{
     margin-left: 5%;
     margin-top: 6%;
     position: relative;
-    padding-top: 20px;  
+    padding-top: 20px;
+    box-sizing: border-box;
 }
 .baner9 .logo{
     position: absolute;
     left: 10px;
-    top: 20px;
+    top: 8px;
     width: 50px;
 }
 .baner9 .text{
     color: white;
     position: absolute;
     left: 73px;
-    top: -10px;
+    top: -16px;
     font-size: 19px;
     font-weight: 700;
 }
@@ -307,14 +316,14 @@ h1{
     color: white;
     position: absolute;
     left: 73px;
-    top: 10px;
+    top: 4px;
     font-size: 19px;
     font-weight: 700;
 }
 .baner9 .pc{
     position: absolute;
     right: -20px;
-    top: 10px;
+    top: -5px;
     width: 90px;
 }
 .baner10{
@@ -324,19 +333,20 @@ h1{
     margin-left: 5%;
     margin-top: 6%;
     position: relative;
-    padding-top: 20px;  
+    padding-top: 20px;
+    box-sizing: border-box;
 }
 .baner10 .logo{
     position: absolute;
     left: 10px;
-    top: 20px;
+    top: 8px;
     width: 50px;
 }
 .baner10 .text{
     color: white;
     position: absolute;
     left: 73px;
-    top: -5px;
+    top: -14px;
     font-size: 19px;
     font-weight: 700;
 }
@@ -344,14 +354,14 @@ h1{
     color: white;
     position: absolute;
     left: 73px;
-    top: 20px;
+    top: 15px;
     font-size: 14px;
     font-weight: 700;
 }
 .baner10 .pc{
     position: absolute;
     right: -20px;
-    top: 10px;
+    top: -5px;
     width: 90px;
 }
 footer{
